@@ -5,4 +5,4 @@ Hotmail es un servicio de mensajeria de emails electronicos gratis, para su uso 
 ## Historia de Hotmail
 Hotmail nacio de una idea de 2 ex empleados de la compañia Apple, Sabeer Bhatia y Jack Smith que pusieron en funcionamiento este servicio gratuito el 4 de julio de 1996  Sabeer Bhatia y Jack Smith despues de abandonar Apple procedieron a irse a otra compañia y se les ocurrio la idea de crear el primer email gratuito. Por aquel entonces Hotmail solo permitia un alamcenamiento gratuito de 2 megabytes 
 
-
+![Logo antiguo](https://github.com/Cepri2005/SMX2-M8UF1A1-HistoriaWeb-1995-1996-Hotmail-CeprianIker/blob/main/what-is-hotmail-1-1024x768.jpg)
